@@ -1,10 +1,18 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi All, React router demo app covers the concepts BrowserRouter, Routers, Route, Link, NavLink, NavStyle, useNavigation and useParams.
 
-## Available Scripts
+The below home page have have several routes 
+<img width="955" height="496" alt="home" src="https://github.com/user-attachments/assets/3ed23806-3b9e-4505-90a8-9fbe287ae803" />
 
-In the project directory, you can run:
+The below page have two buttons back and next impleneted using useNavigate hook.
+<img width="955" height="611" alt="contactUs" src="https://github.com/user-attachments/assets/f2306f48-44b1-41d0-9320-8eec03356868" />
+
+The below blog page implemented using useParams hook. When the user given some value in the navigation link the value (paramter) is utilised and shown in the web page.
+<img width="951" height="617" alt="useParams" src="https://github.com/user-attachments/assets/d3fc3e3d-99cc-45eb-a626-3894929d60b0" />
+
+The page not found also handled.
+<img width="921" height="578" alt="pagenotfound" src="https://github.com/user-attachments/assets/52e7490d-a981-4928-9c7a-7e73378207c9" />
 
 ### `npm start`
 

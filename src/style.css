@@ -1,0 +1,28 @@
+nav {
+  background-color: rgb(11, 230, 200);
+  color: rgb(233, 16, 16);
+  height: 40px;
+  font-size: larger;
+  padding: 20px 40px;
+}
+nav a {
+  margin-right: 20px;
+  color: rgb(227, 7, 209);
+}
+
+body {
+  background-color: #5329ec;
+  padding: 20px;
+  margin: 10;
+}
+div {
+  color: ghostwhite;
+}
+.active {
+  background-color: rgb(105, 92, 165);
+  color: rgb(238, 138, 8);
+  padding: 10px 10px;
+}
+a {
+  text-decoration: none;
+}
